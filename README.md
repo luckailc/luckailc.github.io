@@ -1,1 +1,1 @@
-# My personal website :bug:
+# My personal website
